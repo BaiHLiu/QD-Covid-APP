@@ -2,4 +2,4 @@
 
 ### Remembering the days of the epidemic...
 
-![img](login.png)
+![img](login.jpg)
